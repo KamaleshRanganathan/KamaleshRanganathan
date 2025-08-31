@@ -53,15 +53,97 @@
 
 ---
 
-### 📊 My GitHub Stats & Activity
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamaleshranganathan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Kamalesh's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamaleshranganathan&theme=tokyonight&hide_border=true" alt="Kamalesh's GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamaleshranganathan&layout=compact&theme=tokyonight&hide_border=true" alt="Kamalesh's Top Languages" />
-</div>
+### 📊 GitHub Analytics Dashboard
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=kamaleshranganathan&theme=tokyonight&hide_border=true" alt="Kamalesh's GitHub Activity Graph" />
+  
+  <!-- Enhanced Stats Cards with Custom Themes -->
+  <details open>
+  <summary><b>⚡ Performance Metrics</b></summary>
+  <br/>
+  
+  <a href="https://github.com/kamaleshranganathan">
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kamaleshranganathan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/kamaleshranganathan">
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kamaleshranganathan&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866&currStreakNum=C9D1D9&sideLabels=C9D1D9&sideNums=F85D7F&dates=8B949E" alt="GitHub Streak" />
+  </a>
+  
+  </details>
+  
+  <!-- Language Distribution -->
+  <details open>
+  <summary><b>💻 Language Distribution</b></summary>
+  <br/>
+  
+  <a href="https://github.com/kamaleshranganathan">
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kamaleshranganathan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+  </a>
+  <a href="https://github.com/kamaleshranganathan">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=kamaleshranganathan&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9" alt="Wakatime Stats" />
+  </a>
+  
+  </details>
+  
+  <!-- Contribution Graph -->
+  <details open>
+  <summary><b>📈 Contribution Activity</b></summary>
+  <br/>
+  
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kamaleshranganathan&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=F8D866&area=true&area_color=F85D7F" alt="Activity Graph" />
+  
+  </details>
+  
+  <!-- Trophy Section -->
+  <details open>
+  <summary><b>🏆 GitHub Achievements</b></summary>
+  <br/>
+  
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=kamaleshranganathan&theme=radical&no-frame=true&no-bg=false&margin-w=4&margin-h=4&column=7" alt="GitHub Trophies" />
+  
+  </details>
+  
+  <!-- Recent Activity -->
+  <details open>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+  
+  <!--START_SECTION:activity-->
+  1. 🎉 Merged PR in [kamaleshranganathan/project](https://github.com/kamaleshranganathan)
+  2. 💪 Opened PR in [kamaleshranganathan/repo](https://github.com/kamaleshranganathan)
+  3. ⭐ Starred [awesome-project/repo](https://github.com/kamaleshranganathan)
+  4. 🗣 Commented on issue in [kamaleshranganathan/discussions](https://github.com/kamaleshranganathan)
+  5. 🔧 Fixed bug in [kamaleshranganathan/app](https://github.com/kamaleshranganathan)
+  <!--END_SECTION:activity-->
+  
+  </details>
+  
+  <!-- Metrics -->
+  <details open>
+  <summary><b>📊 Detailed Metrics</b></summary>
+  <br/>
+  
+  <img width="100%" src="https://metrics.lecoq.io/kamaleshranganathan?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FKolkata" alt="Metrics" />
+  
+  </details>
+  
+</div>
+
+<!-- Profile Views Counter -->
+<div align="center">
+  <br/>
+  <img src="https://profile-counter.glitch.me/kamaleshranganathan/count.svg" alt="Visitor Count" />
+  <br/>
+  <b>Thanks for visiting! 😊</b>
+</div>
+
+<!-- Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kamaleshranganathan/kamaleshranganathan/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kamaleshranganathan/kamaleshranganathan/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kamaleshranganathan/kamaleshranganathan/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
