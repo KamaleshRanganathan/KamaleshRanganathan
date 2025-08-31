@@ -94,7 +94,7 @@
   
   </details>
   
-  <!-- Trophy Section -->
+  <!-- Trophy Section 
   <details open>
   <summary><b>🏆 GitHub Achievements</b></summary>
   <br/>
@@ -102,23 +102,10 @@
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=kamaleshranganathan&theme=radical&no-frame=true&no-bg=false&margin-w=4&margin-h=4&column=7" alt="GitHub Trophies" />
   
   </details>
-  
+
   <!-- Recent Activity -->
-  <details open>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
   
-  <!--START_SECTION:activity-->
-  1. 🎉 Merged PR in [kamaleshranganathan/project](https://github.com/kamaleshranganathan)
-  2. 💪 Opened PR in [kamaleshranganathan/repo](https://github.com/kamaleshranganathan)
-  3. ⭐ Starred [awesome-project/repo](https://github.com/kamaleshranganathan)
-  4. 🗣 Commented on issue in [kamaleshranganathan/discussions](https://github.com/kamaleshranganathan)
-  5. 🔧 Fixed bug in [kamaleshranganathan/app](https://github.com/kamaleshranganathan)
-  <!--END_SECTION:activity-->
-  
-  </details>
-  
-  <!-- Metrics -->
+  <!-- Metrics 
   <details open>
   <summary><b>📊 Detailed Metrics</b></summary>
   <br/>
@@ -132,18 +119,7 @@
 <!-- Profile Views Counter -->
 <div align="center">
   <br/>
-  <img src="https://profile-counter.glitch.me/kamaleshranganathan/count.svg" alt="Visitor Count" />
-  <br/>
   <b>Thanks for visiting! 😊</b>
-</div>
-
-<!-- Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kamaleshranganathan/kamaleshranganathan/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kamaleshranganathan/kamaleshranganathan/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kamaleshranganathan/kamaleshranganathan/output/github-contribution-grid-snake.svg">
-  </picture>
 </div>
 
 ---
